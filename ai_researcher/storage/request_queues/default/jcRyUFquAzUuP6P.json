@@ -1,0 +1,9 @@
+{
+	"id": "jcRyUFquAzUuP6P",
+	"json": "{\"id\":\"jcRyUFquAzUuP6P\",\"url\":\"https://www.semanticscholar.org/paper/Content-Based-Citation-Recommendation-Bhagavatula-Feldman/921b2958cac4138d188fd5047aa12bbcf37ac867?sort=is-influential#citing-papers\",\"uniqueKey\":\"https://www.semanticscholar.org/paper/Content-Based-Citation-Recommendation-Bhagavatula-Feldman/921b2958cac4138d188fd5047aa12bbcf37ac867?sort=is-influential\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\"}}}",
+	"method": "GET",
+	"orderNo": 1732553243628,
+	"retryCount": 0,
+	"uniqueKey": "https://www.semanticscholar.org/paper/Content-Based-Citation-Recommendation-Bhagavatula-Feldman/921b2958cac4138d188fd5047aa12bbcf37ac867?sort=is-influential",
+	"url": "https://www.semanticscholar.org/paper/Content-Based-Citation-Recommendation-Bhagavatula-Feldman/921b2958cac4138d188fd5047aa12bbcf37ac867?sort=is-influential#citing-papers"
+}

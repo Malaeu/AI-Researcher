@@ -1,0 +1,9 @@
+{
+	"id": "WYWTnDBR3DKid1i",
+	"json": "{\"id\":\"WYWTnDBR3DKid1i\",\"url\":\"https://www.semanticscholar.org/paper/On-the-fly-Definition-Augmentation-of-LLMs-for-NER-Munnangi-Feldman/cc13d65f00d02c6fc01fc996a10e7bc503e3deec\",\"uniqueKey\":\"https://www.semanticscholar.org/paper/On-the-fly-Definition-Augmentation-of-LLMs-for-NER-Munnangi-Feldman/cc13d65f00d02c6fc01fc996a10e7bc503e3deec\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\"}}}",
+	"method": "GET",
+	"orderNo": 1732553248634,
+	"retryCount": 0,
+	"uniqueKey": "https://www.semanticscholar.org/paper/On-the-fly-Definition-Augmentation-of-LLMs-for-NER-Munnangi-Feldman/cc13d65f00d02c6fc01fc996a10e7bc503e3deec",
+	"url": "https://www.semanticscholar.org/paper/On-the-fly-Definition-Augmentation-of-LLMs-for-NER-Munnangi-Feldman/cc13d65f00d02c6fc01fc996a10e7bc503e3deec"
+}

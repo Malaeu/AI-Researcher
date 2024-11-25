@@ -1,0 +1,9 @@
+{
+	"id": "vBc27LQpxBpy5hp",
+	"json": "{\"id\":\"vBc27LQpxBpy5hp\",\"url\":\"https://www.semanticscholar.org/venue?name=ArXiv\",\"uniqueKey\":\"https://www.semanticscholar.org/venue?name=ArXiv\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\"}}}",
+	"method": "GET",
+	"orderNo": 1732553230550,
+	"retryCount": 0,
+	"uniqueKey": "https://www.semanticscholar.org/venue?name=ArXiv",
+	"url": "https://www.semanticscholar.org/venue?name=ArXiv"
+}

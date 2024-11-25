@@ -1,30 +1,58 @@
 import requests
 import re
 import json
+import time
+from requests.exceptions import RequestException
 
 # Define the paper search endpoint URL
 search_url = 'https://api.semanticscholar.org/graph/v1/paper/search/'
 graph_url = 'https://api.semanticscholar.org/graph/v1/paper/'
 rec_url = "https://api.semanticscholar.org/recommendations/v1/papers/forpaper/"
 
-with open("../keys.json", "r") as f:
+with open("keys.json", "r") as f:
     keys = json.load(f)
-S2_KEY = keys["s2_key"]
+S2_KEY = keys.get("s2_key", None)
+
+def make_request_with_retry(url, params=None, headers=None, max_retries=3, wait_time=10):
+    """Make a request with retry logic for rate limits"""
+    for attempt in range(max_retries):
+        try:
+            response = requests.get(url, params=params, headers=headers)
+            if response.status_code == 429:  # Too Many Requests
+                print(f"Rate limited. Waiting {wait_time} seconds before retry...")
+                time.sleep(wait_time)
+                continue
+            response.raise_for_status()
+            return response.json()
+        except RequestException as e:
+            if attempt == max_retries - 1:  # Last attempt
+                raise e
+            print(f"Request failed. Waiting {wait_time} seconds before retry...")
+            time.sleep(wait_time)
+    return None
 
 def KeywordQuery(keyword):
     ## retrieve papers based on keywords
     query_params = {
         'query': keyword,
-        'limit': 20,
+        'limit': 50,
         'fields': 'title,year,citationCount,abstract,tldr'
     }
-    headers = {'x-api-key': S2_KEY}
-    response = requests.get(search_url, params=query_params, headers = headers)
     
-    if response.status_code == 200:
-        return response.json()
-    else:
-        return None
+    # Only use API key if it's valid
+    headers = {'x-api-key': S2_KEY} if S2_KEY and S2_KEY != "Your Semantic Scholar API Key (Optional)" else None
+    
+    try:
+        response = make_request_with_retry(search_url, params=query_params, headers=headers)
+        return response
+    except Exception as e:
+        print(f"Error querying papers: {str(e)}")
+        return {
+            'total': 0,
+            'data': [],
+            'offset': 0,
+            'next': 0
+        }
 
 def PaperQuery(paper_id):
     ## retrieve similar papers based on paper id
@@ -33,24 +61,46 @@ def PaperQuery(paper_id):
         'limit': 20,
         'fields': 'title,year,citationCount,abstract'
     }
-    headers = {'x-api-key': S2_KEY}
-    response = requests.get(url = rec_url + paper_id, params = query_params, headers = headers)
+    # Only use API key if it's valid
+    headers = {'x-api-key': S2_KEY} if S2_KEY and S2_KEY != "Your Semantic Scholar API Key (Optional)" else None
     
-    if response.status_code == 200:
-        return response.json()
-    else:
-        return None
+    try:
+        response = make_request_with_retry(url=rec_url + paper_id, params=query_params, headers=headers)
+        return response
+    except Exception as e:
+        print(f"Error querying paper: {str(e)}")
+        return {
+            'paperId': paper_id,
+            'title': 'Error retrieving paper',
+            'year': None,
+            'abstract': f'Error: {str(e)}',
+            'citationCount': 0,
+            'tldr': None
+        }
 
 def PaperDetails(paper_id, fields='title,year,abstract,authors,citationCount,venue,citations,references,tldr'):
     ## get paper details based on paper id
     paper_data_query_params = {'fields': fields}
-    headers = {'x-api-key': S2_KEY}
-    response = requests.get(url = graph_url + paper_id, params = paper_data_query_params, headers = headers)
-
-    if response.status_code == 200:
-        return response.json()
-    else:
-        return None
+    # Only use API key if it's valid
+    headers = {'x-api-key': S2_KEY} if S2_KEY and S2_KEY != "Your Semantic Scholar API Key (Optional)" else None
+    
+    try:
+        response = make_request_with_retry(url=graph_url + paper_id, params=paper_data_query_params, headers=headers)
+        return response
+    except Exception as e:
+        print(f"Error getting paper details: {str(e)}")
+        return {
+            'paperId': paper_id,
+            'title': 'Error retrieving paper details',
+            'year': None,
+            'abstract': f'Error: {str(e)}',
+            'authors': [],
+            'citationCount': 0,
+            'venue': '',
+            'citations': [],
+            'references': [],
+            'tldr': None
+        }
 
 def GetAbstract(paper_id):
     ## get the abstract of a paper based on paper id
@@ -207,5 +257,3 @@ if __name__ == "__main__":
     # print (parse_and_execute("GetReferences(\"1b6e810ce0afd0dd093f789d2b2742d047e316d5\")"))
     # print (parse_and_execute("PaperQuery(\"b626560f19f815808a289ef5c24a17c57320da70\")"))
     # print (parse_and_execute("KeywordQuery(\"language model bias in storytelling\")"))
-
-    

@@ -111,7 +111,7 @@ def novelty_check(idea_name, idea, topic_description, openai_client, model, seed
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser()
-    parser.add_argument('--engine', type=str, default='gpt-4-1106-preview', help='api engine; https://openai.com/api/')
+    parser.add_argument('--engine', type=str, default='gpt-4o', help='api engine; https://openai.com/api/')
     parser.add_argument('--cache_name', type=str, default=None, required=True, help='cache file name for the retrieved papers')
     parser.add_argument('--idea_name', type=str, default=None, required=True, help='the specific idea to be formulated into an experiment plan')
     parser.add_argument('--check_n', type=int, default=5, help="number of top papers to check for novelty")

@@ -1,0 +1,9 @@
+{
+	"id": "RDLyLaB1MxS8PtS",
+	"json": "{\"id\":\"RDLyLaB1MxS8PtS\",\"url\":\"https://www.semanticscholar.org/product/api/license\",\"loadedUrl\":\"https://www.semanticscholar.org/product/api/license\",\"uniqueKey\":\"https://www.semanticscholar.org/product/api/license\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2024-11-25T16:46:47.419Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.semanticscholar.org/product/api/license",
+	"url": "https://www.semanticscholar.org/product/api/license"
+}

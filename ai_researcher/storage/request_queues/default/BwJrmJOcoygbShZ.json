@@ -1,0 +1,9 @@
+{
+	"id": "BwJrmJOcoygbShZ",
+	"json": "{\"id\":\"BwJrmJOcoygbShZ\",\"url\":\"https://www.semanticscholar.org/product/scholars-hub\",\"loadedUrl\":\"https://www.semanticscholar.org/product/scholars-hub\",\"uniqueKey\":\"https://www.semanticscholar.org/product/scholars-hub\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2024-11-25T16:46:43.216Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.semanticscholar.org/product/scholars-hub",
+	"url": "https://www.semanticscholar.org/product/scholars-hub"
+}

@@ -1,0 +1,9 @@
+{
+	"id": "8Us0hSes1bI5I6Q",
+	"json": "{\"id\":\"8Us0hSes1bI5I6Q\",\"url\":\"https://www.semanticscholar.org/venue?name=SN%20Comput.%20Sci.\",\"uniqueKey\":\"https://www.semanticscholar.org/venue?name=SN+Comput.+Sci.\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\"}}}",
+	"method": "GET",
+	"orderNo": 1732553230550,
+	"retryCount": 0,
+	"uniqueKey": "https://www.semanticscholar.org/venue?name=SN+Comput.+Sci.",
+	"url": "https://www.semanticscholar.org/venue?name=SN%20Comput.%20Sci."
+}

@@ -1,0 +1,9 @@
+{
+	"id": "lL3BXQ20QLciYhc",
+	"json": "{\"id\":\"lL3BXQ20QLciYhc\",\"url\":\"https://www.semanticscholar.org/author/Shinobu-Hasegawa/2267751251\",\"loadedUrl\":\"https://www.semanticscholar.org/author/Shinobu-Hasegawa/2267751251\",\"uniqueKey\":\"https://www.semanticscholar.org/author/Shinobu-Hasegawa/2267751251\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":1,\"errorMessages\":[\"Error: Failed to parse article\\n    at extract_from_dom (/home/chirurgie/.npm-global/lib/node_modules/@philschmid/clipper/dist/clipper.js:59:15)\\n    at extract_from_html (/home/chirurgie/.npm-global/lib/node_modules/@philschmid/clipper/dist/clipper.js:91:12)\\n    at PlaywrightCrawler.requestHandler [as userProvidedRequestHandler] (/home/chirurgie/.npm-global/lib/node_modules/@philschmid/clipper/dist/crawler.js:29:64)\\n    at runNextTicks (node:internal/process/task_queues:60:5)\\n    at process.processImmediate (node:internal/timers:447:9)\\n    at process.callbackTrampoline (node:internal/async_hooks:128:17)\\n    at async wrap (/home/chirurgie/.npm-global/lib/node_modules/@philschmid/clipper/node_modules/@apify/timeout/cjs/index.cjs:54:21)\"],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2024-11-25T16:47:38.427Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 1,
+	"uniqueKey": "https://www.semanticscholar.org/author/Shinobu-Hasegawa/2267751251",
+	"url": "https://www.semanticscholar.org/author/Shinobu-Hasegawa/2267751251"
+}

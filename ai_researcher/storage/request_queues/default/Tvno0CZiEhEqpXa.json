@@ -1,0 +1,9 @@
+{
+	"id": "Tvno0CZiEhEqpXa",
+	"json": "{\"id\":\"Tvno0CZiEhEqpXa\",\"url\":\"https://www.semanticscholar.org/venue?name=Proceedings%20of%20the%20National%20Academy%20of%20Sciences%20of%20the%20United%20States%20of%20America\",\"uniqueKey\":\"https://www.semanticscholar.org/venue?name=Proceedings+of+the+National+Academy+of+Sciences+of+the+United+States+of+America\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\"}}}",
+	"method": "GET",
+	"orderNo": 1732553257745,
+	"retryCount": 0,
+	"uniqueKey": "https://www.semanticscholar.org/venue?name=Proceedings+of+the+National+Academy+of+Sciences+of+the+United+States+of+America",
+	"url": "https://www.semanticscholar.org/venue?name=Proceedings%20of%20the%20National%20Academy%20of%20Sciences%20of%20the%20United%20States%20of%20America"
+}

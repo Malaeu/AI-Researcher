@@ -1,0 +1,9 @@
+{
+	"id": "7TYL0AzAuRZSDyx",
+	"json": "{\"id\":\"7TYL0AzAuRZSDyx\",\"url\":\"https://www.semanticscholar.org/paper/MedICaT%3A-A-Dataset-of-Medical-Images%2C-Captions%2C-and-Subramanian-Wang/5ba77a5bdeffb62aa0902ae68997bbc38db8a722?sort=is-influential#citing-papers\",\"uniqueKey\":\"https://www.semanticscholar.org/paper/MedICaT%3A-A-Dataset-of-Medical-Images%2C-Captions%2C-and-Subramanian-Wang/5ba77a5bdeffb62aa0902ae68997bbc38db8a722?sort=is-influential\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\"}}}",
+	"method": "GET",
+	"orderNo": 1732553255784,
+	"retryCount": 0,
+	"uniqueKey": "https://www.semanticscholar.org/paper/MedICaT%3A-A-Dataset-of-Medical-Images%2C-Captions%2C-and-Subramanian-Wang/5ba77a5bdeffb62aa0902ae68997bbc38db8a722?sort=is-influential",
+	"url": "https://www.semanticscholar.org/paper/MedICaT%3A-A-Dataset-of-Medical-Images%2C-Captions%2C-and-Subramanian-Wang/5ba77a5bdeffb62aa0902ae68997bbc38db8a722?sort=is-influential#citing-papers"
+}

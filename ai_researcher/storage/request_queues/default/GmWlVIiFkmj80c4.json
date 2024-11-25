@@ -1,0 +1,9 @@
+{
+	"id": "GmWlVIiFkmj80c4",
+	"json": "{\"id\":\"GmWlVIiFkmj80c4\",\"url\":\"https://www.semanticscholar.org/venue?name=ACM%20Conference%20on%20Hypertext%20%26%20Social%20Media\",\"uniqueKey\":\"https://www.semanticscholar.org/venue?name=ACM+Conference+on+Hypertext+%26+Social+Media\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\"}}}",
+	"method": "GET",
+	"orderNo": 1732553245528,
+	"retryCount": 0,
+	"uniqueKey": "https://www.semanticscholar.org/venue?name=ACM+Conference+on+Hypertext+%26+Social+Media",
+	"url": "https://www.semanticscholar.org/venue?name=ACM%20Conference%20on%20Hypertext%20%26%20Social%20Media"
+}

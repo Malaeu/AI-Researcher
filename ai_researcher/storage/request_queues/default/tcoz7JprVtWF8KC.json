@@ -1,0 +1,9 @@
+{
+	"id": "tcoz7JprVtWF8KC",
+	"json": "{\"id\":\"tcoz7JprVtWF8KC\",\"url\":\"https://www.semanticscholar.org/product/release-notes\",\"loadedUrl\":\"https://www.semanticscholar.org/product/release-notes\",\"uniqueKey\":\"https://www.semanticscholar.org/product/release-notes\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2024-11-25T16:46:44.798Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.semanticscholar.org/product/release-notes",
+	"url": "https://www.semanticscholar.org/product/release-notes"
+}

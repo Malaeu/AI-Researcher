@@ -1,0 +1,9 @@
+{
+	"id": "2sWN2mmLM9ADfxV",
+	"json": "{\"id\":\"2sWN2mmLM9ADfxV\",\"url\":\"https://www.semanticscholar.org/paper/GENIE%3A-A-Leaderboard-for-Human-in-the-Loop-of-Text-Khashabi-Stanovsky/acf2dd4e2853f90832c01c556a2e716e7c720bc2\",\"uniqueKey\":\"https://www.semanticscholar.org/paper/GENIE%3A-A-Leaderboard-for-Human-in-the-Loop-of-Text-Khashabi-Stanovsky/acf2dd4e2853f90832c01c556a2e716e7c720bc2\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\"}}}",
+	"method": "GET",
+	"orderNo": 1732553213661,
+	"retryCount": 0,
+	"uniqueKey": "https://www.semanticscholar.org/paper/GENIE%3A-A-Leaderboard-for-Human-in-the-Loop-of-Text-Khashabi-Stanovsky/acf2dd4e2853f90832c01c556a2e716e7c720bc2",
+	"url": "https://www.semanticscholar.org/paper/GENIE%3A-A-Leaderboard-for-Human-in-the-Loop-of-Text-Khashabi-Stanovsky/acf2dd4e2853f90832c01c556a2e716e7c720bc2"
+}

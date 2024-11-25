@@ -1,0 +1,9 @@
+{
+	"id": "FpLvX7gBDCrZWEg",
+	"json": "{\"id\":\"FpLvX7gBDCrZWEg\",\"url\":\"https://www.semanticscholar.org/venue?name=ACM%2FIEEE%20Joint%20Conference%20on%20Digital%20Libraries\",\"uniqueKey\":\"https://www.semanticscholar.org/venue?name=ACM%2FIEEE+Joint+Conference+on+Digital+Libraries\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\"}}}",
+	"method": "GET",
+	"orderNo": 1732553202247,
+	"retryCount": 0,
+	"uniqueKey": "https://www.semanticscholar.org/venue?name=ACM%2FIEEE+Joint+Conference+on+Digital+Libraries",
+	"url": "https://www.semanticscholar.org/venue?name=ACM%2FIEEE%20Joint%20Conference%20on%20Digital%20Libraries"
+}

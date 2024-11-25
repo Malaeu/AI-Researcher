@@ -26,7 +26,7 @@ def generate_test_cases(experiment_plan, test_case_demos, openai_client, model, 
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser()
-    parser.add_argument('--engine', type=str, default='gpt-4-1106-preview', help='api engine; https://openai.com/api/')
+    parser.add_argument('--engine', type=str, default='gpt-4o', help='api engine; https://openai.com/api/')
     parser.add_argument('--cache_name', type=str, default=None, required=True, help='cache file name for the retrieved papers')
     parser.add_argument('--idea_name', type=str, default=None, required=True, help='the specific idea to be formulated into an experiment plan')
     parser.add_argument('--load_papers_from_cache', type=bool, default=False, help='whether to load the retrieved papers from cache')

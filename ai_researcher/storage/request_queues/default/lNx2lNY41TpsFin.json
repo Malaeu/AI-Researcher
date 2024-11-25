@@ -1,0 +1,9 @@
+{
+	"id": "lNx2lNY41TpsFin",
+	"json": "{\"id\":\"lNx2lNY41TpsFin\",\"url\":\"https://www.semanticscholar.org/product/api/tutorial\",\"loadedUrl\":\"https://www.semanticscholar.org/product/api/tutorial\",\"uniqueKey\":\"https://www.semanticscholar.org/product/api/tutorial\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"state\":4}},\"handledAt\":\"2024-11-25T16:46:32.745Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.semanticscholar.org/product/api/tutorial",
+	"url": "https://www.semanticscholar.org/product/api/tutorial"
+}

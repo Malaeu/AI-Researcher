@@ -1,0 +1,9 @@
+{
+	"id": "mRavRaeAmx7qyuC",
+	"json": "{\"id\":\"mRavRaeAmx7qyuC\",\"url\":\"http://www.semanticscholar.org/product/api\",\"uniqueKey\":\"http://www.semanticscholar.org/product/api\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\"}}}",
+	"method": "GET",
+	"orderNo": 1732553207417,
+	"retryCount": 0,
+	"uniqueKey": "http://www.semanticscholar.org/product/api",
+	"url": "http://www.semanticscholar.org/product/api"
+}

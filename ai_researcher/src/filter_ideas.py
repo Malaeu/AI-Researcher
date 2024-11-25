@@ -177,7 +177,7 @@ if __name__ == "__main__":
     parser.add_argument('--seed', type=int, default=2024, help="seed for GPT-4 generation")
     args = parser.parse_args()
 
-    with open("../keys.json", "r") as f:
+    with open("keys.json", "r") as f:
         keys = json.load(f)
     random.seed(args.seed)
 

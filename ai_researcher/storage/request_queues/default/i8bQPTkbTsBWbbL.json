@@ -1,0 +1,9 @@
+{
+	"id": "i8bQPTkbTsBWbbL",
+	"json": "{\"id\":\"i8bQPTkbTsBWbbL\",\"url\":\"https://www.semanticscholar.org/venue?name=Education%20sciences\",\"uniqueKey\":\"https://www.semanticscholar.org/venue?name=Education+sciences\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\"}}}",
+	"method": "GET",
+	"orderNo": 1732553246908,
+	"retryCount": 0,
+	"uniqueKey": "https://www.semanticscholar.org/venue?name=Education+sciences",
+	"url": "https://www.semanticscholar.org/venue?name=Education%20sciences"
+}

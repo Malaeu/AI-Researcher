@@ -1,0 +1,9 @@
+{
+	"id": "f6W6MjzCKfb0H4h",
+	"json": "{\"id\":\"f6W6MjzCKfb0H4h\",\"url\":\"https://www.semanticscholar.org/venue?name=Annual%20International%20ACM%20SIGIR%20Conference%20on%20Research%20and%20Development%20in%20Information%20Retrieval\",\"uniqueKey\":\"https://www.semanticscholar.org/venue?name=Annual+International+ACM+SIGIR+Conference+on+Research+and+Development+in+Information+Retrieval\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\"}}}",
+	"method": "GET",
+	"orderNo": 1732553243643,
+	"retryCount": 0,
+	"uniqueKey": "https://www.semanticscholar.org/venue?name=Annual+International+ACM+SIGIR+Conference+on+Research+and+Development+in+Information+Retrieval",
+	"url": "https://www.semanticscholar.org/venue?name=Annual%20International%20ACM%20SIGIR%20Conference%20on%20Research%20and%20Development%20in%20Information%20Retrieval"
+}

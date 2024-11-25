@@ -1,0 +1,9 @@
+{
+	"id": "lFfmNvfjAJzLGge",
+	"json": "{\"id\":\"lFfmNvfjAJzLGge\",\"url\":\"https://www.semanticscholar.org/venue?name=Communications%20of%20the%20ACM\",\"loadedUrl\":\"https://www.semanticscholar.org/venue?name=Communications%20of%20the%20ACM\",\"uniqueKey\":\"https://www.semanticscholar.org/venue?name=Communications+of+the+ACM\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2024-11-25T16:47:19.682Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.semanticscholar.org/venue?name=Communications+of+the+ACM",
+	"url": "https://www.semanticscholar.org/venue?name=Communications%20of%20the%20ACM"
+}

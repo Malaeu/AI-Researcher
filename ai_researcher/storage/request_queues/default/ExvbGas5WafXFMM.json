@@ -1,0 +1,9 @@
+{
+	"id": "ExvbGas5WafXFMM",
+	"json": "{\"id\":\"ExvbGas5WafXFMM\",\"url\":\"https://www.semanticscholar.org/venue?name=PeerJ\",\"uniqueKey\":\"https://www.semanticscholar.org/venue?name=PeerJ\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\"}}}",
+	"method": "GET",
+	"orderNo": 1732553257740,
+	"retryCount": 0,
+	"uniqueKey": "https://www.semanticscholar.org/venue?name=PeerJ",
+	"url": "https://www.semanticscholar.org/venue?name=PeerJ"
+}

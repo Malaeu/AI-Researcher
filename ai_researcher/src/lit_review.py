@@ -10,8 +10,9 @@ import retry
 
 def initial_search(topic_description, openai_client, model, seed, mode="topic", idea=None):
     if mode == "topic":
-        prompt = "You are a researcher doing literature review on the topic of " + topic_description.strip() + ".\n"
-        prompt += "You should propose some keywords for using the Semantic Scholar API to find the most relevant papers to this topic. "
+        prompt = f"You are a researcher doing literature review on the topic of: {topic_description.strip()}. You are looking for papers related to scientific research, automated data exploration, literature search, ideation, data analysis, automated paper writing, and ensuring reproducibility.\n"
+        prompt += "You should propose some queries for using the Semantic Scholar API to find the most relevant papers to this topic."
+
     elif mode == "idea":
         prompt = "You are a professor. You need to evaluate the novelty of a proposed research idea.\n"
         prompt += "The idea is:\n" + format_plan_json(idea) + "\n\n"
@@ -173,7 +174,7 @@ def collect_papers(topic_description, openai_client, model, seed, grounding_k = 
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser()
-    parser.add_argument('--engine', type=str, default='gpt-4-1106-preview', help='api engine; https://openai.com/api/')
+    parser.add_argument('--engine', type=str, default='gpt-4o-mini', help='api engine; https://openai.com/api/')
     parser.add_argument('--seed', type=int, default=2024, help='seed for GPT-4 generation')
     parser.add_argument('--mode', type=str, default='topic', help='do lit review either based on topic or idea')
     parser.add_argument('--topic_description', type=str, default='automatic evaluation methods and metrics for text-to-image diffusion models', help='one-sentence topic description')
@@ -185,7 +186,7 @@ if __name__ == "__main__":
     parser.add_argument('--print_all', action='store_true', help='whether to print out the intermediate process')
     args = parser.parse_args()
 
-    with open("../keys.json", "r") as f:
+    with open("keys.json", "r") as f:
         keys = json.load(f)
 
     ANTH_KEY = keys["anthropic_key"]

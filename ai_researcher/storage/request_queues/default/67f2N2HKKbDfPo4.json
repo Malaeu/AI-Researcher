@@ -1,0 +1,9 @@
+{
+	"id": "67f2N2HKKbDfPo4",
+	"json": "{\"id\":\"67f2N2HKKbDfPo4\",\"url\":\"https://www.semanticscholar.org/author\",\"uniqueKey\":\"https://www.semanticscholar.org/author\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\"}}}",
+	"method": "GET",
+	"orderNo": 1732553203211,
+	"retryCount": 0,
+	"uniqueKey": "https://www.semanticscholar.org/author",
+	"url": "https://www.semanticscholar.org/author"
+}

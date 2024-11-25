@@ -1,0 +1,9 @@
+{
+	"id": "12KQhwUGeffiBJ6",
+	"json": "{\"id\":\"12KQhwUGeffiBJ6\",\"url\":\"https://www.semanticscholar.org/venue?name=Applied%20System%20Innovation\",\"uniqueKey\":\"https://www.semanticscholar.org/venue?name=Applied+System+Innovation\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\"}}}",
+	"method": "GET",
+	"orderNo": 1732553258424,
+	"retryCount": 0,
+	"uniqueKey": "https://www.semanticscholar.org/venue?name=Applied+System+Innovation",
+	"url": "https://www.semanticscholar.org/venue?name=Applied%20System%20Innovation"
+}

@@ -1,0 +1,9 @@
+{
+	"id": "gAme7XxphKcdOEk",
+	"json": "{\"id\":\"gAme7XxphKcdOEk\",\"url\":\"https://www.semanticscholar.org/product/tldr\",\"uniqueKey\":\"https://www.semanticscholar.org/product/tldr\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\"}}}",
+	"method": "GET",
+	"orderNo": 1732553203209,
+	"retryCount": 0,
+	"uniqueKey": "https://www.semanticscholar.org/product/tldr",
+	"url": "https://www.semanticscholar.org/product/tldr"
+}

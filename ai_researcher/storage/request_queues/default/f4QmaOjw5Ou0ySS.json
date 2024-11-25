@@ -1,0 +1,9 @@
+{
+	"id": "f4QmaOjw5Ou0ySS",
+	"json": "{\"id\":\"f4QmaOjw5Ou0ySS\",\"url\":\"https://www.semanticscholar.org/venue?name=ACM%20Symposium%20on%20User%20Interface%20Software%20and%20Technology\",\"uniqueKey\":\"https://www.semanticscholar.org/venue?name=ACM+Symposium+on+User+Interface+Software+and+Technology\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\"}}}",
+	"method": "GET",
+	"orderNo": 1732553240438,
+	"retryCount": 0,
+	"uniqueKey": "https://www.semanticscholar.org/venue?name=ACM+Symposium+on+User+Interface+Software+and+Technology",
+	"url": "https://www.semanticscholar.org/venue?name=ACM%20Symposium%20on%20User%20Interface%20Software%20and%20Technology"
+}

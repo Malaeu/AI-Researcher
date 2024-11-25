@@ -24,7 +24,7 @@ def feasibility_check(experiment_plan, criteria, openai_client, model, seed):
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser()
-    parser.add_argument('--engine', type=str, default='gpt-4-1106-preview', help='api engine; https://openai.com/api/')
+    parser.add_argument('--engine', type=str, default='gpt-4o', help='api engine; https://openai.com/api/')
     parser.add_argument('--cache_name', type=str, default=None, required=True, help='cache file name for the retrieved papers')
     parser.add_argument('--idea_name', type=str, default=None, required=True, help='the specific idea to be formulated into an experiment plan')
     parser.add_argument('--novelty_only', type=bool, default=False, help='whether to only process papers that passed the novelty check')

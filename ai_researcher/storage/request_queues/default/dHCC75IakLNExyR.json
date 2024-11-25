@@ -1,0 +1,9 @@
+{
+	"id": "dHCC75IakLNExyR",
+	"json": "{\"id\":\"dHCC75IakLNExyR\",\"url\":\"https://www.semanticscholar.org/about/librarians\",\"loadedUrl\":\"https://www.semanticscholar.org/about/librarians\",\"uniqueKey\":\"https://www.semanticscholar.org/about/librarians\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2024-11-25T16:46:46.913Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.semanticscholar.org/about/librarians",
+	"url": "https://www.semanticscholar.org/about/librarians"
+}

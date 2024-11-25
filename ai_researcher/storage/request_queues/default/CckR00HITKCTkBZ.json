@@ -1,0 +1,9 @@
+{
+	"id": "CckR00HITKCTkBZ",
+	"json": "{\"id\":\"CckR00HITKCTkBZ\",\"url\":\"https://www.semanticscholar.org/venue?name=SIGDIAL%20Conferences\",\"uniqueKey\":\"https://www.semanticscholar.org/venue?name=SIGDIAL+Conferences\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\"}}}",
+	"method": "GET",
+	"orderNo": 1732553248615,
+	"retryCount": 0,
+	"uniqueKey": "https://www.semanticscholar.org/venue?name=SIGDIAL+Conferences",
+	"url": "https://www.semanticscholar.org/venue?name=SIGDIAL%20Conferences"
+}

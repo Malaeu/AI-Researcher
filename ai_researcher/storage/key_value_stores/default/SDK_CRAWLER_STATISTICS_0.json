@@ -1,0 +1,121 @@
+{
+  "requestsFinished": 110,
+  "requestsFailed": 14,
+  "requestsRetries": 34,
+  "requestsFailedPerMinute": 11,
+  "requestsFinishedPerMinute": 92,
+  "requestMinDurationMillis": 185,
+  "requestMaxDurationMillis": 3587,
+  "requestTotalFailedDurationMillis": 86996,
+  "requestTotalFinishedDurationMillis": 177933,
+  "crawlerStartedAt": "2024-11-25T16:46:29.287Z",
+  "crawlerFinishedAt": "2024-11-25T16:47:41.042Z",
+  "statsPersistedAt": "2024-11-25T16:47:41.043Z",
+  "crawlerRuntimeMillis": 71802,
+  "crawlerLastStartTimestamp": 1732553189241,
+  "requestRetryHistogram": [
+    90,
+    13,
+    5,
+    16
+  ],
+  "statsId": 0,
+  "requestAvgFailedDurationMillis": 6214,
+  "requestAvgFinishedDurationMillis": 1618,
+  "requestTotalDurationMillis": 264929,
+  "requestsTotal": 124,
+  "requestsWithStatusCode": {
+    "200": 107,
+    "202": 57,
+    "401": 15,
+    "405": 8
+  },
+  "errors": {
+    "/home/chirurgie/.npm-global/lib/node_modules/@philschmid/clipper/node_modules/@crawlee/basic/internals/basic-crawler.js:710:19": {
+      "missing error code": {
+        "Error": {
+          "Request blocked - received 401 status code.": {
+            "count": 3
+          }
+        }
+      }
+    },
+    "/home/chirurgie/.npm-global/lib/node_modules/@philschmid/clipper/dist/clipper.js:59:15": {
+      "missing error code": {
+        "Error": {
+          "Failed to parse article": {
+            "count": 6
+          }
+        }
+      }
+    },
+    "/home/chirurgie/.npm-global/lib/node_modules/@philschmid/clipper/node_modules/@crawlee/playwright/internals/utils/playwright-utils.js:165:17": {
+      "missing error code": {
+        "Error": {
+          "page.goto: Target page, context or browser has been closed": {
+            "count": 1
+          }
+        }
+      }
+    },
+    "/home/chirurgie/.npm-global/lib/node_modules/@philschmid/clipper/node_modules/@crawlee/browser-pool/playwright/playwright-controller.js:129:24": {
+      "missing error code": {
+        "Error": {
+          "browserContext.addCookies: Target page, context or browser has been closed": {
+            "count": 4
+          }
+        }
+      }
+    }
+  },
+  "retryErrors": {
+    "/home/chirurgie/.npm-global/lib/node_modules/@philschmid/clipper/node_modules/@crawlee/basic/internals/basic-crawler.js:710:19": {
+      "missing error code": {
+        "Error": {
+          "Request blocked - received 401 status code.": {
+            "count": 12
+          }
+        }
+      }
+    },
+    "/home/chirurgie/.npm-global/lib/node_modules/@philschmid/clipper/node_modules/@crawlee/playwright/internals/utils/playwright-utils.js:165:17": {
+      "missing error code": {
+        "Error": {
+          "page.goto: net::ERR_ABORTED at _": {
+            "count": 9
+          },
+          "page.goto: Target page, context or browser has been closed": {
+            "count": 2
+          }
+        }
+      }
+    },
+    "/home/chirurgie/.npm-global/lib/node_modules/@philschmid/clipper/dist/clipper.js:59:15": {
+      "missing error code": {
+        "Error": {
+          "Failed to parse article": {
+            "count": 54
+          }
+        }
+      }
+    },
+    "/home/chirurgie/.npm-global/lib/node_modules/@philschmid/clipper/dist/crawler.js:27:37": {
+      "missing error code": {
+        "Error": {
+          "page.content: Unable to retrieve content because the page is navigating and changing the content.": {
+            "count": 1
+          }
+        }
+      }
+    },
+    "/home/chirurgie/.npm-global/lib/node_modules/@philschmid/clipper/node_modules/@crawlee/browser-pool/playwright/playwright-controller.js:100:39": {
+      "missing error code": {
+        "Error": {
+          "browserContext.cookies: Target page, context or browser has been closed": {
+            "count": 1
+          }
+        }
+      }
+    }
+  }
+}

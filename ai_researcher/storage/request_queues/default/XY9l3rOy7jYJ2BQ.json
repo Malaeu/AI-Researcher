@@ -1,0 +1,9 @@
+{
+	"id": "XY9l3rOy7jYJ2BQ",
+	"json": "{\"id\":\"XY9l3rOy7jYJ2BQ\",\"url\":\"https://www.semanticscholar.org/paper/Simplified-Data-Wrangling-with-ir_datasets-MacAvaney-Yates/387d17e3bc44ed4f81de25fc27fa1b8ab7d6bc8d?sort=is-influential#citing-papers\",\"uniqueKey\":\"https://www.semanticscholar.org/paper/Simplified-Data-Wrangling-with-ir_datasets-MacAvaney-Yates/387d17e3bc44ed4f81de25fc27fa1b8ab7d6bc8d?sort=is-influential\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\"}}}",
+	"method": "GET",
+	"orderNo": 1732553243643,
+	"retryCount": 0,
+	"uniqueKey": "https://www.semanticscholar.org/paper/Simplified-Data-Wrangling-with-ir_datasets-MacAvaney-Yates/387d17e3bc44ed4f81de25fc27fa1b8ab7d6bc8d?sort=is-influential",
+	"url": "https://www.semanticscholar.org/paper/Simplified-Data-Wrangling-with-ir_datasets-MacAvaney-Yates/387d17e3bc44ed4f81de25fc27fa1b8ab7d6bc8d?sort=is-influential#citing-papers"
+}

@@ -1,0 +1,9 @@
+{
+	"id": "ZmHMqPOaXql9dpl",
+	"json": "{\"id\":\"ZmHMqPOaXql9dpl\",\"url\":\"https://www.semanticscholar.org/product/api\",\"loadedUrl\":\"https://www.semanticscholar.org/product/api\",\"uniqueKey\":\"https://www.semanticscholar.org/product/api\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2024-11-25T16:46:40.166Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.semanticscholar.org/product/api",
+	"url": "https://www.semanticscholar.org/product/api"
+}

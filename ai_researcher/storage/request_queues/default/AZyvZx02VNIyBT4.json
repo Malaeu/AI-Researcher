@@ -1,0 +1,9 @@
+{
+	"id": "AZyvZx02VNIyBT4",
+	"json": "{\"id\":\"AZyvZx02VNIyBT4\",\"url\":\"https://www.semanticscholar.org/resources\",\"loadedUrl\":\"https://www.semanticscholar.org/resources\",\"uniqueKey\":\"https://www.semanticscholar.org/resources\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2024-11-25T16:46:46.281Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.semanticscholar.org/resources",
+	"url": "https://www.semanticscholar.org/resources"
+}

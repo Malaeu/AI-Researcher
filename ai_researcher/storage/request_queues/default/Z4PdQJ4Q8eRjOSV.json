@@ -1,0 +1,9 @@
+{
+	"id": "Z4PdQJ4Q8eRjOSV",
+	"json": "{\"id\":\"Z4PdQJ4Q8eRjOSV\",\"url\":\"https://www.semanticscholar.org/paper/096ca3c5da860d41811c741ddc29242d90d1ccea#citing-papers\",\"loadedUrl\":\"https://www.semanticscholar.org/paper/The-Semantic-Reader-Project%3A-Augmenting-Scholarly-Lo-Chang/096ca3c5da860d41811c741ddc29242d90d1ccea#citing-papers\",\"uniqueKey\":\"https://www.semanticscholar.org/paper/096ca3c5da860d41811c741ddc29242d90d1ccea\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":1,\"errorMessages\":[\"Error: Failed to parse article\\n    at extract_from_dom (/home/chirurgie/.npm-global/lib/node_modules/@philschmid/clipper/dist/clipper.js:59:15)\\n    at extract_from_html (/home/chirurgie/.npm-global/lib/node_modules/@philschmid/clipper/dist/clipper.js:91:12)\\n    at PlaywrightCrawler.requestHandler [as userProvidedRequestHandler] (/home/chirurgie/.npm-global/lib/node_modules/@philschmid/clipper/dist/crawler.js:29:64)\\n    at async wrap (/home/chirurgie/.npm-global/lib/node_modules/@philschmid/clipper/node_modules/@apify/timeout/cjs/index.cjs:54:21)\"],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2024-11-25T16:47:25.571Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 1,
+	"uniqueKey": "https://www.semanticscholar.org/paper/096ca3c5da860d41811c741ddc29242d90d1ccea",
+	"url": "https://www.semanticscholar.org/paper/096ca3c5da860d41811c741ddc29242d90d1ccea#citing-papers"
+}

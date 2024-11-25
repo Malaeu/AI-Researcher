@@ -10,6 +10,7 @@ import pandas as pd
 import argparse
 import os
 from sentence_transformers import SentenceTransformer
+from sklearn.metrics.pairwise import cosine_similarity
 
 def plot_string_occurrences(strings_list):
     # Count occurrences of each string
@@ -117,11 +118,9 @@ if __name__ == "__main__":
         similarity_matrix = np.load(os.path.join(args.cache_dir, args.cache_name + "_similarity_matrix.npy"))
     elif args.save_similarity_matrix:
         embeddings = model.encode(all_ideas)
-        similarity_matrix = model.similarity(embeddings, embeddings)
-        similarity_matrix = similarity_matrix.numpy()
+        similarity_matrix = cosine_similarity(embeddings)
         ## setting the diagonal to 0
         np.fill_diagonal(similarity_matrix, 0)
-
         np.save(os.path.join(args.cache_dir, args.cache_name + "_similarity_matrix.npy"), similarity_matrix)
 
     nn_similarity = []

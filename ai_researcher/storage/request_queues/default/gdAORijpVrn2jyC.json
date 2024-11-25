@@ -1,0 +1,9 @@
+{
+	"id": "gdAORijpVrn2jyC",
+	"json": "{\"id\":\"gdAORijpVrn2jyC\",\"url\":\"https://www.semanticscholar.org/venue?name=IEEE%20Transactions%20on%20Knowledge%20and%20Data%20Engineering\",\"uniqueKey\":\"https://www.semanticscholar.org/venue?name=IEEE+Transactions+on+Knowledge+and+Data+Engineering\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\"}}}",
+	"method": "GET",
+	"orderNo": 1732553243639,
+	"retryCount": 0,
+	"uniqueKey": "https://www.semanticscholar.org/venue?name=IEEE+Transactions+on+Knowledge+and+Data+Engineering",
+	"url": "https://www.semanticscholar.org/venue?name=IEEE%20Transactions%20on%20Knowledge%20and%20Data%20Engineering"
+}

@@ -1,0 +1,9 @@
+{
+	"id": "RPnYaJZUqCwkBUN",
+	"json": "{\"id\":\"RPnYaJZUqCwkBUN\",\"url\":\"https://www.semanticscholar.org/venue?name=IEEE%20Region%2010%20Conference\",\"uniqueKey\":\"https://www.semanticscholar.org/venue?name=IEEE+Region+10+Conference\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\"}}}",
+	"method": "GET",
+	"orderNo": 1732553246899,
+	"retryCount": 0,
+	"uniqueKey": "https://www.semanticscholar.org/venue?name=IEEE+Region+10+Conference",
+	"url": "https://www.semanticscholar.org/venue?name=IEEE%20Region%2010%20Conference"
+}

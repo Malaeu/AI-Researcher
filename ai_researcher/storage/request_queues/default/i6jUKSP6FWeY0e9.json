@@ -1,0 +1,9 @@
+{
+	"id": "i6jUKSP6FWeY0e9",
+	"json": "{\"id\":\"i6jUKSP6FWeY0e9\",\"url\":\"https://www.semanticscholar.org/api-gallery/textero-ai\",\"loadedUrl\":\"https://www.semanticscholar.org/api-gallery/textero-ai\",\"uniqueKey\":\"https://www.semanticscholar.org/api-gallery/textero-ai\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2024-11-25T16:47:01.618Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.semanticscholar.org/api-gallery/textero-ai",
+	"url": "https://www.semanticscholar.org/api-gallery/textero-ai"
+}

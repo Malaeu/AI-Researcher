@@ -20,12 +20,17 @@ def calc_price(model, usage):
 
     return None
 
-def call_api(client, model, prompt_messages, temperature=1.0, max_tokens=100, seed=2024, json_output=False):
+def call_api(client, model, prompt_messages, temperature=1.0, max_tokens=8000, seed=2024, json_output=False):
     ## Anthropic models
     if "claude" in model:
         if json_output:
             prompt = prompt_messages[0]["content"] + " Directly output the JSON dict with no additional text (avoid the presence of newline characters (\"\n\") and unescaped double quotes within the string so that we can call json.loads() on the output directly). Make sure you follow the exact same JSON format as shown in the examples. Don't include \"```json\" or \"```\" at the beginning and end of the output."
             prompt_messages = [{"role": "user", "content": prompt}]
+        # Ensure max_tokens doesn't exceed model limits
+        if "claude-3" in model:
+            max_tokens = min(max_tokens, 8192)  # Claude 3 limit
+        else:
+            max_tokens = min(max_tokens, 100000)  # Claude 2 limit
         message = client.messages.create(
             model=model,
             max_tokens=max_tokens,
@@ -218,4 +223,3 @@ if __name__ == "__main__":
         paper_json = json.load(f)
     
     print (format_plan_json(paper_json["full_experiment_plan"]))
-

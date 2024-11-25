@@ -38,7 +38,7 @@ def plan_generation_method(method, idea, demo_examples, topic_description, opena
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser()
-    parser.add_argument('--engine', type=str, default='gpt-4-1106-preview', help='api engine; https://openai.com/api/')
+    parser.add_argument('--engine', type=str, default='gpt-4o', help='api engine; https://openai.com/api/')
     parser.add_argument('--idea_cache_dir', type=str, default=None, required=True, help='dir that stores all the raw ideas')
     parser.add_argument('--experiment_plan_cache_dir', type=str, default=None, required=True, help='dir to store all the generated experiment plans')
     parser.add_argument('--cache_name', type=str, default=None, required=True, help='the specific cache (topic)')
@@ -48,7 +48,7 @@ if __name__ == "__main__":
     parser.add_argument('--seed', type=int, default=2024, help="seed for GPT-4 generation")
     args = parser.parse_args()
 
-    with open("../keys.json", "r") as f:
+    with open("keys.json", "r") as f:
         keys = json.load(f)
 
     ANTH_KEY = keys["anthropic_key"]

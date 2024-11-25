@@ -1,0 +1,9 @@
+{
+	"id": "gP4kvhaLk7zX3JH",
+	"json": "{\"id\":\"gP4kvhaLk7zX3JH\",\"url\":\"https://www.semanticscholar.org/reader/293b95ea26641e0ccdd7a1e9efcc5c17ce2ef8db\",\"uniqueKey\":\"https://www.semanticscholar.org/reader/293b95ea26641e0ccdd7a1e9efcc5c17ce2ef8db\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\"}}}",
+	"method": "GET",
+	"orderNo": 1732553251066,
+	"retryCount": 0,
+	"uniqueKey": "https://www.semanticscholar.org/reader/293b95ea26641e0ccdd7a1e9efcc5c17ce2ef8db",
+	"url": "https://www.semanticscholar.org/reader/293b95ea26641e0ccdd7a1e9efcc5c17ce2ef8db"
+}

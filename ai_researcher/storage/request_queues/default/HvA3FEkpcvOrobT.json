@@ -1,0 +1,9 @@
+{
+	"id": "HvA3FEkpcvOrobT",
+	"json": "{\"id\":\"HvA3FEkpcvOrobT\",\"url\":\"https://www.semanticscholar.org/paper/SciDQA%3A-A-Deep-Reading-Comprehension-Dataset-over-Singh-Sarkar/ad04be174d549cf02a67140893da672ce395d53d\",\"uniqueKey\":\"https://www.semanticscholar.org/paper/SciDQA%3A-A-Deep-Reading-Comprehension-Dataset-over-Singh-Sarkar/ad04be174d549cf02a67140893da672ce395d53d\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\"}}}",
+	"method": "GET",
+	"orderNo": 1732553245534,
+	"retryCount": 0,
+	"uniqueKey": "https://www.semanticscholar.org/paper/SciDQA%3A-A-Deep-Reading-Comprehension-Dataset-over-Singh-Sarkar/ad04be174d549cf02a67140893da672ce395d53d",
+	"url": "https://www.semanticscholar.org/paper/SciDQA%3A-A-Deep-Reading-Comprehension-Dataset-over-Singh-Sarkar/ad04be174d549cf02a67140893da672ce395d53d"
+}

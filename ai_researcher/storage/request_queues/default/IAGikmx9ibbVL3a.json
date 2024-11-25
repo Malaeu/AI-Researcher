@@ -1,0 +1,9 @@
+{
+	"id": "IAGikmx9ibbVL3a",
+	"json": "{\"id\":\"IAGikmx9ibbVL3a\",\"url\":\"https://www.semanticscholar.org/venue?name=Source%20Code%20for%20Biology%20and%20Medicine\",\"uniqueKey\":\"https://www.semanticscholar.org/venue?name=Source+Code+for+Biology+and+Medicine\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\"}}}",
+	"method": "GET",
+	"orderNo": 1732553251101,
+	"retryCount": 0,
+	"uniqueKey": "https://www.semanticscholar.org/venue?name=Source+Code+for+Biology+and+Medicine",
+	"url": "https://www.semanticscholar.org/venue?name=Source%20Code%20for%20Biology%20and%20Medicine"
+}
