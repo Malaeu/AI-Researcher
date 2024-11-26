@@ -1,9 +1,0 @@
-{
-	"id": "KmCP7bnARrFulMc",
-	"json": "{\"id\":\"KmCP7bnARrFulMc\",\"url\":\"https://www.semanticscholar.org/author/Wen-Gu/2191728751\",\"loadedUrl\":\"https://www.semanticscholar.org/author/Wen-Gu/2191728751\",\"uniqueKey\":\"https://www.semanticscholar.org/author/Wen-Gu/2191728751\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2024-11-25T16:47:26.909Z\"}",
-	"method": "GET",
-	"orderNo": null,
-	"retryCount": 0,
-	"uniqueKey": "https://www.semanticscholar.org/author/Wen-Gu/2191728751",
-	"url": "https://www.semanticscholar.org/author/Wen-Gu/2191728751"
-}

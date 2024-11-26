@@ -1,9 +1,0 @@
-{
-	"id": "hlcaVfOsyxHnL0J",
-	"json": "{\"id\":\"hlcaVfOsyxHnL0J\",\"url\":\"https://www.semanticscholar.org/venue?name=International%20Conference%20on%20Computational%20Logic\",\"uniqueKey\":\"https://www.semanticscholar.org/venue?name=International+Conference+on+Computational+Logic\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\"}}}",
-	"method": "GET",
-	"orderNo": 1732553234516,
-	"retryCount": 0,
-	"uniqueKey": "https://www.semanticscholar.org/venue?name=International+Conference+on+Computational+Logic",
-	"url": "https://www.semanticscholar.org/venue?name=International%20Conference%20on%20Computational%20Logic"
-}

@@ -1,9 +1,0 @@
-{
-	"id": "chUxviDnGPNz0JG",
-	"json": "{\"id\":\"chUxviDnGPNz0JG\",\"url\":\"https://www.semanticscholar.org/paper/TDDiscourse%3A-A-Dataset-for-Discourse-Level-Temporal-Naik-Breitfeller/5b58058af2a598d3a753d073c252cdfc6fad4286\",\"uniqueKey\":\"https://www.semanticscholar.org/paper/TDDiscourse%3A-A-Dataset-for-Discourse-Level-Temporal-Naik-Breitfeller/5b58058af2a598d3a753d073c252cdfc6fad4286\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\"}}}",
-	"method": "GET",
-	"orderNo": 1732553248614,
-	"retryCount": 0,
-	"uniqueKey": "https://www.semanticscholar.org/paper/TDDiscourse%3A-A-Dataset-for-Discourse-Level-Temporal-Naik-Breitfeller/5b58058af2a598d3a753d073c252cdfc6fad4286",
-	"url": "https://www.semanticscholar.org/paper/TDDiscourse%3A-A-Dataset-for-Discourse-Level-Temporal-Naik-Breitfeller/5b58058af2a598d3a753d073c252cdfc6fad4286"
-}

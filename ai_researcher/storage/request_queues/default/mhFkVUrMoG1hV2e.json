@@ -1,9 +1,0 @@
-{
-	"id": "mhFkVUrMoG1hV2e",
-	"json": "{\"id\":\"mhFkVUrMoG1hV2e\",\"url\":\"https://www.semanticscholar.org/paper/461fc74ecead523fa9b131b3e3d5df36ce5ec4fd#citing-papers\",\"loadedUrl\":\"https://www.semanticscholar.org/paper/461fc74ecead523fa9b131b3e3d5df36ce5ec4fd#citing-papers\",\"uniqueKey\":\"https://www.semanticscholar.org/paper/461fc74ecead523fa9b131b3e3d5df36ce5ec4fd\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":1,\"errorMessages\":[\"Error: Failed to parse article\\n    at extract_from_dom (/home/chirurgie/.npm-global/lib/node_modules/@philschmid/clipper/dist/clipper.js:59:15)\\n    at extract_from_html (/home/chirurgie/.npm-global/lib/node_modules/@philschmid/clipper/dist/clipper.js:91:12)\\n    at PlaywrightCrawler.requestHandler [as userProvidedRequestHandler] (/home/chirurgie/.npm-global/lib/node_modules/@philschmid/clipper/dist/crawler.js:29:64)\\n    at async wrap (/home/chirurgie/.npm-global/lib/node_modules/@philschmid/clipper/node_modules/@apify/timeout/cjs/index.cjs:54:21)\"],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\",\"state\":5}}}",
-	"method": "GET",
-	"orderNo": 1732553261004,
-	"retryCount": 1,
-	"uniqueKey": "https://www.semanticscholar.org/paper/461fc74ecead523fa9b131b3e3d5df36ce5ec4fd",
-	"url": "https://www.semanticscholar.org/paper/461fc74ecead523fa9b131b3e3d5df36ce5ec4fd#citing-papers"
-}

@@ -1,9 +1,0 @@
-{
-	"id": "d9IGCVA29kKKdxP",
-	"json": "{\"id\":\"d9IGCVA29kKKdxP\",\"url\":\"https://www.semanticscholar.org/paper/SLEDGE-Z%3A-A-Zero-Shot-Baseline-for-COVID-19-Search-MacAvaney-Cohan/05598331268614305ff844cea001f5b22f3519c9\",\"uniqueKey\":\"https://www.semanticscholar.org/paper/SLEDGE-Z%3A-A-Zero-Shot-Baseline-for-COVID-19-Search-MacAvaney-Cohan/05598331268614305ff844cea001f5b22f3519c9\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\"}}}",
-	"method": "GET",
-	"orderNo": 1732553213666,
-	"retryCount": 0,
-	"uniqueKey": "https://www.semanticscholar.org/paper/SLEDGE-Z%3A-A-Zero-Shot-Baseline-for-COVID-19-Search-MacAvaney-Cohan/05598331268614305ff844cea001f5b22f3519c9",
-	"url": "https://www.semanticscholar.org/paper/SLEDGE-Z%3A-A-Zero-Shot-Baseline-for-COVID-19-Search-MacAvaney-Cohan/05598331268614305ff844cea001f5b22f3519c9"
-}

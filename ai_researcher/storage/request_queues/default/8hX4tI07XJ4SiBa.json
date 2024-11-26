@@ -1,9 +1,0 @@
-{
-	"id": "8hX4tI07XJ4SiBa",
-	"json": "{\"id\":\"8hX4tI07XJ4SiBa\",\"url\":\"https://www.semanticscholar.org/venue?name=International%20Conference%20on%20Document%20Analysis%20and%20Recognition%20%28ICDAR%29\",\"uniqueKey\":\"https://www.semanticscholar.org/venue?name=International+Conference+on+Document+Analysis+and+Recognition+%28ICDAR%29\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\"}}}",
-	"method": "GET",
-	"orderNo": 1732553230555,
-	"retryCount": 0,
-	"uniqueKey": "https://www.semanticscholar.org/venue?name=International+Conference+on+Document+Analysis+and+Recognition+%28ICDAR%29",
-	"url": "https://www.semanticscholar.org/venue?name=International%20Conference%20on%20Document%20Analysis%20and%20Recognition%20%28ICDAR%29"
-}

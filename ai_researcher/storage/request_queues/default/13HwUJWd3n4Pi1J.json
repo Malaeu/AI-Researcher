@@ -1,9 +1,0 @@
-{
-	"id": "13HwUJWd3n4Pi1J",
-	"json": "{\"id\":\"13HwUJWd3n4Pi1J\",\"url\":\"https://www.semanticscholar.org/venue?name=Information%20Processing%20%26%20Management\",\"uniqueKey\":\"https://www.semanticscholar.org/venue?name=Information+Processing+%26+Management\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\"}}}",
-	"method": "GET",
-	"orderNo": 1732553251061,
-	"retryCount": 0,
-	"uniqueKey": "https://www.semanticscholar.org/venue?name=Information+Processing+%26+Management",
-	"url": "https://www.semanticscholar.org/venue?name=Information%20Processing%20%26%20Management"
-}

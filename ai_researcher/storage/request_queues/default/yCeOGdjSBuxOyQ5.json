@@ -1,9 +1,0 @@
-{
-	"id": "yCeOGdjSBuxOyQ5",
-	"json": "{\"id\":\"yCeOGdjSBuxOyQ5\",\"url\":\"https://www.semanticscholar.org/venue?name=International%20ACM%20SIGACCESS%20Conference%20on%20Computers%20and%20Accessibility\",\"uniqueKey\":\"https://www.semanticscholar.org/venue?name=International+ACM+SIGACCESS+Conference+on+Computers+and+Accessibility\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\"}}}",
-	"method": "GET",
-	"orderNo": 1732553245561,
-	"retryCount": 0,
-	"uniqueKey": "https://www.semanticscholar.org/venue?name=International+ACM+SIGACCESS+Conference+on+Computers+and+Accessibility",
-	"url": "https://www.semanticscholar.org/venue?name=International%20ACM%20SIGACCESS%20Conference%20on%20Computers%20and%20Accessibility"
-}

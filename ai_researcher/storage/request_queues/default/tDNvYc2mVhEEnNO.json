@@ -1,9 +1,0 @@
-{
-	"id": "tDNvYc2mVhEEnNO",
-	"json": "{\"id\":\"tDNvYc2mVhEEnNO\",\"url\":\"https://www.semanticscholar.org/api-gallery/sourcely\",\"loadedUrl\":\"https://www.semanticscholar.org/api-gallery/sourcely\",\"uniqueKey\":\"https://www.semanticscholar.org/api-gallery/sourcely\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2024-11-25T16:47:02.392Z\"}",
-	"method": "GET",
-	"orderNo": null,
-	"retryCount": 0,
-	"uniqueKey": "https://www.semanticscholar.org/api-gallery/sourcely",
-	"url": "https://www.semanticscholar.org/api-gallery/sourcely"
-}

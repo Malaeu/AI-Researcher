@@ -1,9 +1,0 @@
-{
-	"id": "2PObzyXQ5sAR7wN",
-	"json": "{\"id\":\"2PObzyXQ5sAR7wN\",\"url\":\"https://www.semanticscholar.org/api-gallery/papelist-app\",\"loadedUrl\":\"https://www.semanticscholar.org/api-gallery/papelist-app\",\"uniqueKey\":\"https://www.semanticscholar.org/api-gallery/papelist-app\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2024-11-25T16:47:01.749Z\"}",
-	"method": "GET",
-	"orderNo": null,
-	"retryCount": 0,
-	"uniqueKey": "https://www.semanticscholar.org/api-gallery/papelist-app",
-	"url": "https://www.semanticscholar.org/api-gallery/papelist-app"
-}

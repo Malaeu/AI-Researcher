@@ -1,23 +1,4 @@
-keys.json
-**/__pycache__/
-.DS_Store
-ai_researcher.egg-info/
-openreview_scraper*/
-iclr-dataset*/
-openreview_benchmark*/
-openreview*/
-ORB_*/
-**/experiment_plans*/
-**/logs*/
-**/ideas*/
-**/lit_review*/
-Human_Ideas_Txt*/
-AI_AI_Ideas*/
-AI_Human_Ideas*/
-cache*/
-*.zip
-results_all/
-ai_researcher/scripts_all
-**/logs*/
-scrape_paper.py
-all_ideas/
+# Игнорим всё storage дерьмо
+ai_researcher/storage/datasets/
+ai_researcher/storage/key_value_stores/
+ai_researcher/storage/request_queues/

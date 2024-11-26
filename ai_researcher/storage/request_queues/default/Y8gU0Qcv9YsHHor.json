@@ -1,9 +1,0 @@
-{
-	"id": "Y8gU0Qcv9YsHHor",
-	"json": "{\"id\":\"Y8gU0Qcv9YsHHor\",\"url\":\"https://www.semanticscholar.org/paper/Mitigating-Biases-in-CORD-19-for-Analyzing-COVID-19-Kanakia-Wang/bcc2ab2039ce77d8e38c290ff75ef9030b23eb44\",\"uniqueKey\":\"https://www.semanticscholar.org/paper/Mitigating-Biases-in-CORD-19-for-Analyzing-COVID-19-Kanakia-Wang/bcc2ab2039ce77d8e38c290ff75ef9030b23eb44\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\"}}}",
-	"method": "GET",
-	"orderNo": 1732553213663,
-	"retryCount": 0,
-	"uniqueKey": "https://www.semanticscholar.org/paper/Mitigating-Biases-in-CORD-19-for-Analyzing-COVID-19-Kanakia-Wang/bcc2ab2039ce77d8e38c290ff75ef9030b23eb44",
-	"url": "https://www.semanticscholar.org/paper/Mitigating-Biases-in-CORD-19-for-Analyzing-COVID-19-Kanakia-Wang/bcc2ab2039ce77d8e38c290ff75ef9030b23eb44"
-}

@@ -1,9 +1,0 @@
-{
-	"id": "YCvSLpd4bllUN6t",
-	"json": "{\"id\":\"YCvSLpd4bllUN6t\",\"url\":\"https://www.semanticscholar.org/about/contact\",\"loadedUrl\":\"https://www.semanticscholar.org/about/contact\",\"uniqueKey\":\"https://www.semanticscholar.org/about/contact\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2024-11-25T16:47:03.937Z\"}",
-	"method": "GET",
-	"orderNo": null,
-	"retryCount": 0,
-	"uniqueKey": "https://www.semanticscholar.org/about/contact",
-	"url": "https://www.semanticscholar.org/about/contact"
-}

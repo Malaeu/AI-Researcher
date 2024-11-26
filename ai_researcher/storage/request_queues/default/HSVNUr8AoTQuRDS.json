@@ -1,9 +1,0 @@
-{
-	"id": "HSVNUr8AoTQuRDS",
-	"json": "{\"id\":\"HSVNUr8AoTQuRDS\",\"url\":\"https://www.semanticscholar.org/product/scholars-hub/top-viewed-papers-referred-by-arxiv\",\"uniqueKey\":\"https://www.semanticscholar.org/product/scholars-hub/top-viewed-papers-referred-by-arxiv\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\"}}}",
-	"method": "GET",
-	"orderNo": 1732553203194,
-	"retryCount": 0,
-	"uniqueKey": "https://www.semanticscholar.org/product/scholars-hub/top-viewed-papers-referred-by-arxiv",
-	"url": "https://www.semanticscholar.org/product/scholars-hub/top-viewed-papers-referred-by-arxiv"
-}

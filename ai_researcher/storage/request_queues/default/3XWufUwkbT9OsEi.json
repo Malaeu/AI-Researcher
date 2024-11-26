@@ -1,9 +1,0 @@
-{
-	"id": "3XWufUwkbT9OsEi",
-	"json": "{\"id\":\"3XWufUwkbT9OsEi\",\"url\":\"https://www.semanticscholar.org/paper/eb130d963d6f831a859e81a1d370894bca0c31ae?sort=is-influential#citing-papers\",\"uniqueKey\":\"https://www.semanticscholar.org/paper/eb130d963d6f831a859e81a1d370894bca0c31ae?sort=is-influential\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\"}}}",
-	"method": "GET",
-	"orderNo": 1732553245554,
-	"retryCount": 0,
-	"uniqueKey": "https://www.semanticscholar.org/paper/eb130d963d6f831a859e81a1d370894bca0c31ae?sort=is-influential",
-	"url": "https://www.semanticscholar.org/paper/eb130d963d6f831a859e81a1d370894bca0c31ae?sort=is-influential#citing-papers"
-}

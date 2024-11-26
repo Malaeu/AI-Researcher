@@ -1,9 +1,0 @@
-{
-	"id": "lcy4JWeuUeJLgBC",
-	"json": "{\"id\":\"lcy4JWeuUeJLgBC\",\"url\":\"https://www.semanticscholar.org/venue?name=SIGIR%20Forum\",\"uniqueKey\":\"https://www.semanticscholar.org/venue?name=SIGIR+Forum\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\"}}}",
-	"method": "GET",
-	"orderNo": 1732553255785,
-	"retryCount": 0,
-	"uniqueKey": "https://www.semanticscholar.org/venue?name=SIGIR+Forum",
-	"url": "https://www.semanticscholar.org/venue?name=SIGIR%20Forum"
-}

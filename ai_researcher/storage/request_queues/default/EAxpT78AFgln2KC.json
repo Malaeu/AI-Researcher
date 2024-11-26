@@ -1,9 +1,0 @@
-{
-	"id": "EAxpT78AFgln2KC",
-	"json": "{\"id\":\"EAxpT78AFgln2KC\",\"url\":\"https://www.semanticscholar.org/venue?name=International%20Symposium%20on%20Intelligent%20Data%20Analysis\",\"uniqueKey\":\"https://www.semanticscholar.org/venue?name=International+Symposium+on+Intelligent+Data+Analysis\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\"}}}",
-	"method": "GET",
-	"orderNo": 1732553257719,
-	"retryCount": 0,
-	"uniqueKey": "https://www.semanticscholar.org/venue?name=International+Symposium+on+Intelligent+Data+Analysis",
-	"url": "https://www.semanticscholar.org/venue?name=International%20Symposium%20on%20Intelligent%20Data%20Analysis"
-}

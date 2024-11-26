@@ -1,9 +1,0 @@
-{
-	"id": "DBHepWvutA8LY0t",
-	"json": "{\"id\":\"DBHepWvutA8LY0t\",\"url\":\"https://www.semanticscholar.org/reader/461fc74ecead523fa9b131b3e3d5df36ce5ec4fd\",\"uniqueKey\":\"https://www.semanticscholar.org/reader/461fc74ecead523fa9b131b3e3d5df36ce5ec4fd\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":1,\"errorMessages\":[\"page.goto: Target page, context or browser has been closed\\nCall log:\\n\\u001b[2m  - navigating to \\\"https://www.semanticscholar.org/reader/461fc74ecead523fa9b131b3e3d5df36ce5ec4fd\\\", waiting until \\\"load\\\"\\u001b[22m\\n\\n    at gotoExtended (/home/chirurgie/.npm-global/lib/node_modules/@philschmid/clipper/node_modules/@crawlee/playwright/internals/utils/playwright-utils.js:165:17)\\n    at PlaywrightCrawler._navigationHandler (/home/chirurgie/.npm-global/lib/node_modules/@philschmid/clipper/node_modules/@crawlee/playwright/internals/playwright-crawler.js:117:52)\\n    at PlaywrightCrawler._handleNavigation (/home/chirurgie/.npm-global/lib/node_modules/@philschmid/clipper/node_modules/@crawlee/browser/internals/browser-crawler.js:331:52)\\n    at async PlaywrightCrawler._runRequestHandler (/home/chirurgie/.npm-global/lib/node_modules/@philschmid/clipper/node_modules/@crawlee/browser/internals/browser-crawler.js:260:13)\\n    at async PlaywrightCrawler._runRequestHandler (/home/chirurgie/.npm-global/lib/node_modules/@philschmid/clipper/node_modules/@crawlee/playwright/internals/playwright-crawler.js:114:9)\\n    at async wrap (/home/chirurgie/.npm-global/lib/node_modules/@philschmid/clipper/node_modules/@apify/timeout/cjs/index.cjs:54:21)\"],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\",\"state\":5}}}",
-	"method": "GET",
-	"orderNo": 1732553260925,
-	"retryCount": 1,
-	"uniqueKey": "https://www.semanticscholar.org/reader/461fc74ecead523fa9b131b3e3d5df36ce5ec4fd",
-	"url": "https://www.semanticscholar.org/reader/461fc74ecead523fa9b131b3e3d5df36ce5ec4fd"
-}

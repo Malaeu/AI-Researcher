@@ -1,9 +1,0 @@
-{
-	"id": "bYTQExgZehaWOnW",
-	"json": "{\"id\":\"bYTQExgZehaWOnW\",\"url\":\"https://www.semanticscholar.org/paper/NLP-KG%3A-A-System-for-Exploratory-Search-of-in-Schopf-Matthes/207fda76a3d2c78069390ab2f356fb3888ede8a3\",\"loadedUrl\":\"https://www.semanticscholar.org/paper/NLP-KG%3A-A-System-for-Exploratory-Search-of-in-Schopf-Matthes/207fda76a3d2c78069390ab2f356fb3888ede8a3\",\"uniqueKey\":\"https://www.semanticscholar.org/paper/NLP-KG%3A-A-System-for-Exploratory-Search-of-in-Schopf-Matthes/207fda76a3d2c78069390ab2f356fb3888ede8a3\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":1,\"errorMessages\":[\"Error: Failed to parse article\\n    at extract_from_dom (/home/chirurgie/.npm-global/lib/node_modules/@philschmid/clipper/dist/clipper.js:59:15)\\n    at extract_from_html (/home/chirurgie/.npm-global/lib/node_modules/@philschmid/clipper/dist/clipper.js:91:12)\\n    at PlaywrightCrawler.requestHandler [as userProvidedRequestHandler] (/home/chirurgie/.npm-global/lib/node_modules/@philschmid/clipper/dist/crawler.js:29:64)\\n    at async wrap (/home/chirurgie/.npm-global/lib/node_modules/@philschmid/clipper/node_modules/@apify/timeout/cjs/index.cjs:54:21)\"],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\",\"state\":5}}}",
-	"method": "GET",
-	"orderNo": 1732553260733,
-	"retryCount": 1,
-	"uniqueKey": "https://www.semanticscholar.org/paper/NLP-KG%3A-A-System-for-Exploratory-Search-of-in-Schopf-Matthes/207fda76a3d2c78069390ab2f356fb3888ede8a3",
-	"url": "https://www.semanticscholar.org/paper/NLP-KG%3A-A-System-for-Exploratory-Search-of-in-Schopf-Matthes/207fda76a3d2c78069390ab2f356fb3888ede8a3"
-}

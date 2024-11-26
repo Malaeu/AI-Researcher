@@ -1,9 +1,0 @@
-{
-	"id": "Snyn2dJQ8ianrf8",
-	"json": "{\"id\":\"Snyn2dJQ8ianrf8\",\"url\":\"https://www.semanticscholar.org/venue?name=IJCNLP\",\"uniqueKey\":\"https://www.semanticscholar.org/venue?name=IJCNLP\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\"}}}",
-	"method": "GET",
-	"orderNo": 1732553251219,
-	"retryCount": 0,
-	"uniqueKey": "https://www.semanticscholar.org/venue?name=IJCNLP",
-	"url": "https://www.semanticscholar.org/venue?name=IJCNLP"
-}

@@ -1,9 +1,0 @@
-{
-	"id": "TN2jNrMDbihEADg",
-	"json": "{\"id\":\"TN2jNrMDbihEADg\",\"url\":\"https://www.semanticscholar.org/venue?name=IEEE%20International%20Conference%20on%20Consumer%20Electronics\",\"uniqueKey\":\"https://www.semanticscholar.org/venue?name=IEEE+International+Conference+on+Consumer+Electronics\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\"}}}",
-	"method": "GET",
-	"orderNo": 1732553257013,
-	"retryCount": 0,
-	"uniqueKey": "https://www.semanticscholar.org/venue?name=IEEE+International+Conference+on+Consumer+Electronics",
-	"url": "https://www.semanticscholar.org/venue?name=IEEE%20International%20Conference%20on%20Consumer%20Electronics"
-}

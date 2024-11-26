@@ -1,9 +1,0 @@
-{
-	"id": "KC3pNLeMbSr4cmt",
-	"json": "{\"id\":\"KC3pNLeMbSr4cmt\",\"url\":\"https://www.semanticscholar.org/paper/SciBERT%3A-Pretrained-Contextualized-Embeddings-for-Beltagy-Cohan/87078d95bee341a1767034d9432fb34937ecf65a\",\"uniqueKey\":\"https://www.semanticscholar.org/paper/SciBERT%3A-Pretrained-Contextualized-Embeddings-for-Beltagy-Cohan/87078d95bee341a1767034d9432fb34937ecf65a\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\"}}}",
-	"method": "GET",
-	"orderNo": 1732553253589,
-	"retryCount": 0,
-	"uniqueKey": "https://www.semanticscholar.org/paper/SciBERT%3A-Pretrained-Contextualized-Embeddings-for-Beltagy-Cohan/87078d95bee341a1767034d9432fb34937ecf65a",
-	"url": "https://www.semanticscholar.org/paper/SciBERT%3A-Pretrained-Contextualized-Embeddings-for-Beltagy-Cohan/87078d95bee341a1767034d9432fb34937ecf65a"
-}

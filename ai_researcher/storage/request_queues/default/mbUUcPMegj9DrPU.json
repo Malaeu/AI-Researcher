@@ -1,9 +1,0 @@
-{
-	"id": "mbUUcPMegj9DrPU",
-	"json": "{\"id\":\"mbUUcPMegj9DrPU\",\"url\":\"https://www.semanticscholar.org/venue?name=FINDINGS\",\"uniqueKey\":\"https://www.semanticscholar.org/venue?name=FINDINGS\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\"}}}",
-	"method": "GET",
-	"orderNo": 1732553251224,
-	"retryCount": 0,
-	"uniqueKey": "https://www.semanticscholar.org/venue?name=FINDINGS",
-	"url": "https://www.semanticscholar.org/venue?name=FINDINGS"
-}

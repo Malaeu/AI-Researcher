@@ -1,9 +1,0 @@
-{
-	"id": "AT8aHyq7xxrlYZ5",
-	"json": "{\"id\":\"AT8aHyq7xxrlYZ5\",\"url\":\"https://www.semanticscholar.org/author/Sergey-Feldman/46411828\",\"loadedUrl\":\"https://www.semanticscholar.org/author/Sergey-Feldman/46411828\",\"uniqueKey\":\"https://www.semanticscholar.org/author/Sergey-Feldman/46411828\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":1,\"errorMessages\":[\"Error: Failed to parse article\\n    at extract_from_dom (/home/chirurgie/.npm-global/lib/node_modules/@philschmid/clipper/dist/clipper.js:59:15)\\n    at extract_from_html (/home/chirurgie/.npm-global/lib/node_modules/@philschmid/clipper/dist/clipper.js:91:12)\\n    at PlaywrightCrawler.requestHandler [as userProvidedRequestHandler] (/home/chirurgie/.npm-global/lib/node_modules/@philschmid/clipper/dist/crawler.js:29:64)\\n    at async wrap (/home/chirurgie/.npm-global/lib/node_modules/@philschmid/clipper/node_modules/@apify/timeout/cjs/index.cjs:54:21)\"],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2024-11-25T16:47:23.644Z\"}",
-	"method": "GET",
-	"orderNo": null,
-	"retryCount": 1,
-	"uniqueKey": "https://www.semanticscholar.org/author/Sergey-Feldman/46411828",
-	"url": "https://www.semanticscholar.org/author/Sergey-Feldman/46411828"
-}

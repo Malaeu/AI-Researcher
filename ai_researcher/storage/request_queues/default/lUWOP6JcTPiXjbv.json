@@ -1,9 +1,0 @@
-{
-	"id": "lUWOP6JcTPiXjbv",
-	"json": "{\"id\":\"lUWOP6JcTPiXjbv\",\"url\":\"https://www.semanticscholar.org/paper/TriviaQA%3A-A-Large-Scale-Distantly-Supervised-for-Joshi-Choi/f010affab57b5fcf1cd6be23df79d8ec98c7289c#paper-topics\",\"uniqueKey\":\"https://www.semanticscholar.org/paper/TriviaQA%3A-A-Large-Scale-Distantly-Supervised-for-Joshi-Choi/f010affab57b5fcf1cd6be23df79d8ec98c7289c\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\"}}}",
-	"method": "GET",
-	"orderNo": 1732553203217,
-	"retryCount": 0,
-	"uniqueKey": "https://www.semanticscholar.org/paper/TriviaQA%3A-A-Large-Scale-Distantly-Supervised-for-Joshi-Choi/f010affab57b5fcf1cd6be23df79d8ec98c7289c",
-	"url": "https://www.semanticscholar.org/paper/TriviaQA%3A-A-Large-Scale-Distantly-Supervised-for-Joshi-Choi/f010affab57b5fcf1cd6be23df79d8ec98c7289c#paper-topics"
-}

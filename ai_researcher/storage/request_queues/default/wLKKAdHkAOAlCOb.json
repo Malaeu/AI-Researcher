@@ -1,9 +1,0 @@
-{
-	"id": "wLKKAdHkAOAlCOb",
-	"json": "{\"id\":\"wLKKAdHkAOAlCOb\",\"url\":\"https://www.semanticscholar.org/venue?name=Global%20Internet%20of%20Things%20Summit\",\"uniqueKey\":\"https://www.semanticscholar.org/venue?name=Global+Internet+of+Things+Summit\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\"}}}",
-	"method": "GET",
-	"orderNo": 1732553251792,
-	"retryCount": 0,
-	"uniqueKey": "https://www.semanticscholar.org/venue?name=Global+Internet+of+Things+Summit",
-	"url": "https://www.semanticscholar.org/venue?name=Global%20Internet%20of%20Things%20Summit"
-}

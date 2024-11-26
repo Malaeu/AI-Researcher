@@ -1,9 +1,0 @@
-{
-	"id": "FZPsCn33ZTNlUhT",
-	"json": "{\"id\":\"FZPsCn33ZTNlUhT\",\"url\":\"https://www.semanticscholar.org/paper/TDDiscourse%3A-A-Dataset-for-Discourse-Level-Temporal-Naik-Breitfeller/5b58058af2a598d3a753d073c252cdfc6fad4286?sort=is-influential#citing-papers\",\"uniqueKey\":\"https://www.semanticscholar.org/paper/TDDiscourse%3A-A-Dataset-for-Discourse-Level-Temporal-Naik-Breitfeller/5b58058af2a598d3a753d073c252cdfc6fad4286?sort=is-influential\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\"}}}",
-	"method": "GET",
-	"orderNo": 1732553248615,
-	"retryCount": 0,
-	"uniqueKey": "https://www.semanticscholar.org/paper/TDDiscourse%3A-A-Dataset-for-Discourse-Level-Temporal-Naik-Breitfeller/5b58058af2a598d3a753d073c252cdfc6fad4286?sort=is-influential",
-	"url": "https://www.semanticscholar.org/paper/TDDiscourse%3A-A-Dataset-for-Discourse-Level-Temporal-Naik-Breitfeller/5b58058af2a598d3a753d073c252cdfc6fad4286?sort=is-influential#citing-papers"
-}

@@ -1,9 +1,0 @@
-{
-	"id": "0O9hYhxqLyvMxDd",
-	"json": "{\"id\":\"0O9hYhxqLyvMxDd\",\"url\":\"https://www.semanticscholar.org/paper/PubLayNet%3A-Largest-Dataset-Ever-for-Document-Layout-Zhong-Tang/b5799d10df17de3232540e990da69553800d6376\",\"uniqueKey\":\"https://www.semanticscholar.org/paper/PubLayNet%3A-Largest-Dataset-Ever-for-Document-Layout-Zhong-Tang/b5799d10df17de3232540e990da69553800d6376\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\"}}}",
-	"method": "GET",
-	"orderNo": 1732553202250,
-	"retryCount": 0,
-	"uniqueKey": "https://www.semanticscholar.org/paper/PubLayNet%3A-Largest-Dataset-Ever-for-Document-Layout-Zhong-Tang/b5799d10df17de3232540e990da69553800d6376",
-	"url": "https://www.semanticscholar.org/paper/PubLayNet%3A-Largest-Dataset-Ever-for-Document-Layout-Zhong-Tang/b5799d10df17de3232540e990da69553800d6376"
-}

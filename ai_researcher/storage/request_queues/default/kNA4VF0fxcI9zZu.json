@@ -1,9 +1,0 @@
-{
-	"id": "kNA4VF0fxcI9zZu",
-	"json": "{\"id\":\"kNA4VF0fxcI9zZu\",\"url\":\"https://www.semanticscholar.org/paper/DORIS-MAE%3A-Scientific-Document-Retrieval-using-Wang-Wang/461fc74ecead523fa9b131b3e3d5df36ce5ec4fd\",\"loadedUrl\":\"https://www.semanticscholar.org/paper/DORIS-MAE%3A-Scientific-Document-Retrieval-using-Wang-Wang/461fc74ecead523fa9b131b3e3d5df36ce5ec4fd\",\"uniqueKey\":\"https://www.semanticscholar.org/paper/DORIS-MAE%3A-Scientific-Document-Retrieval-using-Wang-Wang/461fc74ecead523fa9b131b3e3d5df36ce5ec4fd\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2024-11-25T16:47:39.084Z\"}",
-	"method": "GET",
-	"orderNo": null,
-	"retryCount": 0,
-	"uniqueKey": "https://www.semanticscholar.org/paper/DORIS-MAE%3A-Scientific-Document-Retrieval-using-Wang-Wang/461fc74ecead523fa9b131b3e3d5df36ce5ec4fd",
-	"url": "https://www.semanticscholar.org/paper/DORIS-MAE%3A-Scientific-Document-Retrieval-using-Wang-Wang/461fc74ecead523fa9b131b3e3d5df36ce5ec4fd"
-}

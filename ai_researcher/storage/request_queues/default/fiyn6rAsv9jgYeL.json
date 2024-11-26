@@ -1,9 +1,0 @@
-{
-	"id": "fiyn6rAsv9jgYeL",
-	"json": "{\"id\":\"fiyn6rAsv9jgYeL\",\"url\":\"https://www.semanticscholar.org/api-gallery/paperlib\",\"loadedUrl\":\"https://www.semanticscholar.org/api-gallery/paperlib\",\"uniqueKey\":\"https://www.semanticscholar.org/api-gallery/paperlib\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2024-11-25T16:46:56.627Z\"}",
-	"method": "GET",
-	"orderNo": null,
-	"retryCount": 0,
-	"uniqueKey": "https://www.semanticscholar.org/api-gallery/paperlib",
-	"url": "https://www.semanticscholar.org/api-gallery/paperlib"
-}

@@ -1,9 +1,0 @@
-{
-	"id": "pq3WhXcLnoeeubC",
-	"json": "{\"id\":\"pq3WhXcLnoeeubC\",\"url\":\"https://www.semanticscholar.org/venue?name=IEEE%20International%20Conference%20on%20Computer%20Vision\",\"uniqueKey\":\"https://www.semanticscholar.org/venue?name=IEEE+International+Conference+on+Computer+Vision\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\"}}}",
-	"method": "GET",
-	"orderNo": 1732553251245,
-	"retryCount": 0,
-	"uniqueKey": "https://www.semanticscholar.org/venue?name=IEEE+International+Conference+on+Computer+Vision",
-	"url": "https://www.semanticscholar.org/venue?name=IEEE%20International%20Conference%20on%20Computer%20Vision"
-}

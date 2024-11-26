@@ -1,9 +1,0 @@
-{
-	"id": "b4X0btoQoUapjar",
-	"json": "{\"id\":\"b4X0btoQoUapjar\",\"url\":\"https://www.semanticscholar.org/paper/IoTCrawler%3A-Challenges-and-Solutions-for-Searching-Iggena-Ilyas/5b99bb0dbc1aea860f56ece6ef5b8b902ee8fcc8?sort=is-influential#citing-papers\",\"uniqueKey\":\"https://www.semanticscholar.org/paper/IoTCrawler%3A-Challenges-and-Solutions-for-Searching-Iggena-Ilyas/5b99bb0dbc1aea860f56ece6ef5b8b902ee8fcc8?sort=is-influential\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\"}}}",
-	"method": "GET",
-	"orderNo": 1732553251780,
-	"retryCount": 0,
-	"uniqueKey": "https://www.semanticscholar.org/paper/IoTCrawler%3A-Challenges-and-Solutions-for-Searching-Iggena-Ilyas/5b99bb0dbc1aea860f56ece6ef5b8b902ee8fcc8?sort=is-influential",
-	"url": "https://www.semanticscholar.org/paper/IoTCrawler%3A-Challenges-and-Solutions-for-Searching-Iggena-Ilyas/5b99bb0dbc1aea860f56ece6ef5b8b902ee8fcc8?sort=is-influential#citing-papers"
-}

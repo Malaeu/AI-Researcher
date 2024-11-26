@@ -1,9 +1,0 @@
-{
-	"id": "mHTGgLi07KMPX4B",
-	"json": "{\"id\":\"mHTGgLi07KMPX4B\",\"url\":\"https://www.semanticscholar.org/venue?name=International%20Symposium%20on%20INnovations%20in%20Intelligent%20SysTems%20and%20Applications\",\"uniqueKey\":\"https://www.semanticscholar.org/venue?name=International+Symposium+on+INnovations+in+Intelligent+SysTems+and+Applications\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\"}}}",
-	"method": "GET",
-	"orderNo": 1732553246901,
-	"retryCount": 0,
-	"uniqueKey": "https://www.semanticscholar.org/venue?name=International+Symposium+on+INnovations+in+Intelligent+SysTems+and+Applications",
-	"url": "https://www.semanticscholar.org/venue?name=International%20Symposium%20on%20INnovations%20in%20Intelligent%20SysTems%20and%20Applications"
-}

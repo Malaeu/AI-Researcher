@@ -1,9 +1,0 @@
-{
-	"id": "r9TbcqUcHuIYuBE",
-	"json": "{\"id\":\"r9TbcqUcHuIYuBE\",\"url\":\"https://www.semanticscholar.org/venue?name=Annual%20Meeting%20of%20the%20Association%20for%20Computational%20Linguistics\",\"uniqueKey\":\"https://www.semanticscholar.org/venue?name=Annual+Meeting+of+the+Association+for+Computational+Linguistics\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\"}}}",
-	"method": "GET",
-	"orderNo": 1732553440442,
-	"retryCount": 0,
-	"uniqueKey": "https://www.semanticscholar.org/venue?name=Annual+Meeting+of+the+Association+for+Computational+Linguistics",
-	"url": "https://www.semanticscholar.org/venue?name=Annual%20Meeting%20of%20the%20Association%20for%20Computational%20Linguistics"
-}

@@ -1,9 +1,0 @@
-{
-	"id": "6F7omlFiIUtt25Q",
-	"json": "{\"id\":\"6F7omlFiIUtt25Q\",\"url\":\"https://www.semanticscholar.org/venue?name=Conference%20of%20the%20European%20Chapter%20of%20the%20Association%20for%20Computational%20Linguistics\",\"uniqueKey\":\"https://www.semanticscholar.org/venue?name=Conference+of+the+European+Chapter+of+the+Association+for+Computational+Linguistics\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\"}}}",
-	"method": "GET",
-	"orderNo": 1732553255789,
-	"retryCount": 0,
-	"uniqueKey": "https://www.semanticscholar.org/venue?name=Conference+of+the+European+Chapter+of+the+Association+for+Computational+Linguistics",
-	"url": "https://www.semanticscholar.org/venue?name=Conference%20of%20the%20European%20Chapter%20of%20the%20Association%20for%20Computational%20Linguistics"
-}
