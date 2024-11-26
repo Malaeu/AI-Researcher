@@ -1,4 +1,12 @@
-# Игнорим всё storage дерьмо
-ai_researcher/storage/datasets/
-ai_researcher/storage/key_value_stores/
-ai_researcher/storage/request_queues/
+# API Keys
+**/keys.json
+**/credentials.json
+
+# Python shit
+**/__pycache__/
+*.py[cod]
+*.class
+
+# Cache directories
+**/cache_results_test/
+**/storage/
