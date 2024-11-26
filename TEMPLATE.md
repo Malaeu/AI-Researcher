@@ -1,4 +1,4 @@
-{29} Ылша, вот полный темплейт в markdown формате:
+
 
 ```markdown
 # LLM Code Change and Git Commit Template
@@ -103,17 +103,3 @@ git commit -m "feat: enhance semantic analysis
 
 git push origin feature/semantic-improvements
 ```
-```
-
-Давай сохраним это как TEMPLATE.md в корне проекта:
-```bash
-echo 'Template content...' > TEMPLATE.md
-git add TEMPLATE.md
-git commit -m "docs: add LLM code change template
-
-- Add structured template for code changes
-- Include git command examples
-- Add clear instructions for LLM"
-git push origin feature/semantic-transformer-similarity
-```
-
